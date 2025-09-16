@@ -31,9 +31,9 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 
 | Project                                                           | Description                                                                                                   | Tech Used                           |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| 🛒 [Ai Blog App](https://github.com/mani901/Ai-Blog-App)          | AI-powered blog application with content generation using gemini.                                             | React, Node js, MongoDB             |
-| 🛠️ [JobPortal Website](https://github.com/mani901/Mern-JobPortal) | A fully featured Job Portal enables companies to post job listings and candidates to apply with ease.         | React, Node js, MongoDB             |
-| ⚡ [Chat App](https://github.com/mani901/mern-chat-app-socketio)  | A real-time chat application for live messaging , online status tracking, message history, and responsive UI. | React, Node js, MongoDB, Sockets.io |
+| [Ai Blog App](https://github.com/mani901/Ai-Blog-App)          | AI-powered blog application with content generation using gemini.                                             | React, Node js, MongoDB             |
+| [JobPortal Website](https://github.com/mani901/Mern-JobPortal) | A fully featured Job Portal enables companies to post job listings and candidates to apply with ease.         | React, Node js, MongoDB             |
+| [Chat App](https://github.com/mani901/mern-chat-app-socketio)  | A real-time chat application for live messaging , online status tracking, message history, and responsive UI. | React, Node js, MongoDB, Sockets.io |
 
 ---
 
