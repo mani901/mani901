@@ -8,7 +8,7 @@
 
 ### ✨ About Me
 
-Hi! I'm **Muhammad Rehman**, a Software Engineering final year student at **University of Lahore, Pakistan 🇵🇰**.  
+Hi! I'm **Muhammad Rehman**, a Software Engineering final year student at **University of Lahore, Pakistan**.  
 I love turning complex problems into **beautiful, functional websites** using React , Node js and MongoDb.  
 I’m passionate about **clean architecture, smooth UI/UX, and performance optimization**.
 
