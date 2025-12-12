@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Rehman;Software+Engineering+Student+%F0%9F%92%BB;MernStack+Developer+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Muhammad+Rehman;Software+Engineering+graduate+%F0%9F%92%BB;MernStack+Developer+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 <h3 align="center">Building scalable, high-performance websites with Mern stack.</h3>
