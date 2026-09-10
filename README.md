@@ -184,27 +184,30 @@ const muhammadRehman = {
 
 ## 📊 GitHub Metrics
 
-<!-- ✅ FIXED: Contribution Activity Graph (was missing before) -->
 <div align="center">
 
+<!-- Contribution Activity Graph -->
 <a href="https://github.com/mani901">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani901&theme=react-dark&bg_color=0D1117&color=00F0FF&line=7B42BC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 </a>
 
 <br><br>
 
-<!-- ✅ FIXED: Stats card with proper parameters -->
+<!-- Stats card — using GitHub Stats Extended, the actively maintained
+     successor to github-readme-stats (original public instance is paused) -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mani901&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B42BC" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mani901&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mani901&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F0FF&icon_color=7B42BC" height="180" alt="GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mani901&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F0FF&langs_count=8" height="180" alt="Top Languages"/>
 </p>
 
-<!-- ✅ FIXED: Streak stats (reliable alternative to broken trophies) -->
+<!-- Streak stats — herokuapp.com is dead (Heroku killed free dynos),
+     using the maintained demolab.com mirror instead -->
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani901&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=7B42BC&fire=FF6B6B&currStreakLabel=00F0FF" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=mani901&theme=radical&hide_border=true&background=0D1117&stroke=00F0FF&ring=7B42BC&fire=FF6B6B&currStreakLabel=00F0FF" height="180" alt="GitHub Streak"/>
 </p>
 
-<!-- 🐍 Snake Animation (requires GitHub Action — see setup below) -->
+<!-- 🐍 Snake Animation — requires the GitHub Action below to be added
+     to the mani901/mani901 repo before this image will render -->
 <p>
   <img src="https://raw.githubusercontent.com/mani901/mani901/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
