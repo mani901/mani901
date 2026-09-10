@@ -29,11 +29,12 @@ I’m passionate about **clean architecture, smooth UI/UX, and performance optim
 
 ### 🔨 Featured Projects
 
-| Project                                                           | Description                                                                                                   | Tech Used                           |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| [Ai Blog App](https://github.com/mani901/Ai-Blog-App)          | AI-powered blog application with content generation using gemini.                                             | React, Node js, MongoDB             |
-| [JobPortal Website](https://github.com/mani901/Mern-JobPortal) | A fully featured Job Portal enables companies to post job listings and candidates to apply with ease.         | React, Node js, MongoDB             |
-| [Chat App](https://github.com/mani901/mern-chat-app-socketio)  | A real-time chat application for live messaging , online status tracking, message history, and responsive UI. | React, Node js, MongoDB, Sockets.io |
+| Project | Description | Tech Used |
+| --- | --- | --- |
+| [ResumeForge](https://github.com/mani901/resumeforge) | AI-powered resume builder with live editing, ATS scoring, AI resume tailoring, job application tracking, and cover letter generation with multi-provider AI support. | Next.js, React, TypeScript, PostgreSQL, Prisma, Tailwind CSS, NextAuth, Gemini, OpenAI, Claude |
+| [MyVault](https://github.com/mani901/myvault) | Privacy-first offline password manager and encrypted secrets vault with local-only storage, secure password generation, auto-lock, backup/restore, and AES-256-GCM encryption. | Tauri, Rust, React, TypeScript, SQLite, AES-256-GCM, Argon2id, Zustand, Tailwind CSS |
+| [AI-Powered Smart Meter Reading System](https://github.com/mani901) | AI-powered meter reading platform that detects meters and recognizes digits from images, with confidence-based human review for low-confidence predictions. | React, Vite, TypeScript, Express.js, PostgreSQL, Python, FastAPI, YOLOv8, OpenCV |
+| [Zewar House – AI-Powered Virtual Jewellery Try-On](https://github.com/mani901) | AI-powered e-commerce platform featuring a virtual try-on service that analyzes face shape and generates personalized jewellery recommendations. | React, Node.js, Express.js, MongoDB, Python, FastAPI, MediaPipe, scikit-learn, Stripe, Cloudinary |
 
 ---
 
